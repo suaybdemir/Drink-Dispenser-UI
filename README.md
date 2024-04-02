@@ -1,2 +1,2 @@
-# Drink-Dispenser-UI
-Drink Dispenser UI
+# <p align="center">Drink-Dispenser-UI</p>
+
