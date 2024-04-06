@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/coldMenu/cupOfCoffee.png</file>
+        <file>UI/coldMenu/glassWater.png</file>
+        <file>UI/coldMenu/tea-cup.png</file>
+        <file>UI/EntryPage/air.png</file>
+        <file>UI/EntryPage/cold-coffee.png</file>
+        <file>UI/EntryPage/coldicon.png</file>
+        <file>UI/EntryPage/hotcoffee.png</file>
+        <file>UI/icedCoffees/cold-brew.png</file>
+        <file>UI/icedCoffees/icedEspresso.png</file>
+        <file>UI/icedCoffees/icedLatte.png</file>
+        <file>UI/icedCoffees/icedMacchiato.png</file>
+        <file>UI/icedCoffees/icedMocha.png</file>
+        <file>UI/icedTea/icedtea2.png</file>
+        <file>UI/icedTea/icedTeaNormal.png</file>
+        <file>UI/statusBar/wifi.png</file>
+        <file>UI/tea/tea1.png</file>
+        <file>UI/tea/tea3.png</file>
+        <file>UI/tea/tea4.png</file>
+        <file>UI/selectionPage.qml</file>
+        <file>UI/StatusBar.qml</file>
+        <file>UI/main.qml</file>
+    </qresource>
+</RCC>
