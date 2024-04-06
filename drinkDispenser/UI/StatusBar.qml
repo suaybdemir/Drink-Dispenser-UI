@@ -3,9 +3,10 @@ import QtQuick 2.12
 Rectangle{
     id:statusBar
     color: "black"
-    radius: 5
+    radius: 20
+    // anchors.topMargin:  -20
     width: 726
-    height: 30
+    height: 50
 
     Rectangle{
         id:notificationBadge
@@ -15,6 +16,8 @@ Rectangle{
         color: "white"
 
         anchors{
+            // top: statusBar.top
+            // topMargin: 20
             verticalCenter: parent.verticalCenter
             left: parent.left
             leftMargin: 10
