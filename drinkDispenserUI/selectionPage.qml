@@ -37,6 +37,22 @@ Item {
             source: "qrc:/assets/EntryPage/air.png"
         }
 
+        Text{
+            id: hotImageText
+            anchors{
+                top:hotImage.bottom
+                horizontalCenter: parent.horizontalCenter
+                right:hotImage.right
+                rightMargin: 15
+
+            }
+            topPadding: 10
+            font.pixelSize: 55
+            font.weight: Font.Medium
+            color: "#171717"
+            text: "Hot"
+        }
+
     }
 
     Rectangle{
@@ -72,6 +88,23 @@ Item {
             }
 
             source: "qrc:/assets/EntryPage/coldicon.png"
+        }
+
+        Text{
+            id: coldImageText
+            anchors{
+                top:coldImage.bottom
+
+                horizontalCenter: parent.horizontalCenter
+                right:coldImage.right
+                rightMargin: 10
+
+            }
+            topPadding: 10
+            font.pixelSize: 50
+            font.weight: Font.Medium
+            color: "#171717"
+            text: "Cold"
         }
 
     }
